@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://tubidymp3.is/sitemap.xml
+Sitemap: /sitemap.xml
