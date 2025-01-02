@@ -4,4 +4,8 @@
 <loc>https://tubidy-com.github.io/tubidy/</loc>
 <changefreq>daily</changefreq>
 </url>
+ <url>
+<loc>https://tubidy-com.github.io/tubidy/es/</loc>
+<changefreq>daily</changefreq>
+</url>
 </urlset>
